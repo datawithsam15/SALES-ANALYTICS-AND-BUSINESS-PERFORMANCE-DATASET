@@ -26,15 +26,15 @@ customer behavior, product performance, and profitabilIty.
 
 # KPI(key performance indicators)
 
-. Total Sales Revenue: How much revenue the business generated.
+**. Total Sales Revenue:** How much revenue the business generated.
 
-. Total Orders: Number of sales/orders made.
+**. Total Orders:** Number of sales/orders made.
 
-. Total Profit: Overall profitability of the sales.
+**. Total Profit:** Overall profitability of the sales.
 
-. Total Customers: Number of unique customers who purchased.
+**. Total Customers:** Number of unique customers who purchased.
 
-. Average Order Value (AOV): Average revenue generated per order.
+**. Average Order Value (AOV):** Average revenue generated per order.
 
 ## PROBLEM STATEMENT
 
@@ -63,17 +63,17 @@ customer behavior, product performance, and profitabilIty.
 
 ## Analytical Highlights
 
-.High-Margin Operations: Achieved a highly efficient 35.2% net profit margin on $71M sales.
+**.High-Margin Operations:** Achieved a highly efficient 35.2% net profit margin on $71M sales.
 
-.Premium Purchasing Behavior: Captured a strong $706 average order value from 2,000 customers.
+**.Premium Purchasing Behavior:** Captured a strong $706 average order value from 2,000 customers.
 
-.Predictable Seasonality: Identified a major Q4 holiday sales surge during Month 12.
+**.Predictable Seasonality:** Identified a major Q4 holiday sales surge during Month 12.
 
-.Portfolio Revenue Concentration: Uncovered that Clothing and Accessories categories generate 38% of revenue.
+**.Portfolio Revenue Concentration:** Uncovered that Clothing and Accessories categories generate 38% of revenue.
 
-.Balanced Geographic Risk: Maintained perfectly diversified stability with revenue split evenly at 20% regionally.
+**.Balanced Geographic Risk:** Maintained perfectly diversified stability with revenue split evenly at 20% regionally.
 
-.Workforce Performance Gap: Exposed a significant 46% sales drop-off between top and bottom-tier representatives.
+**.Workforce Performance Gap:** Exposed a significant 46% sales drop-off between top and bottom-tier representatives.
 
 ## Below is an in-depth analysis of each visual component:
 
@@ -101,16 +101,13 @@ customer behavior, product performance, and profitabilIty.
 
 **.It shows:** Revenue contribution by product department.
 
-.Insight: Clothing ($14,386K) and Accessories ($13,227K) are the primary revenue drivers. Furniture ($9,594K) brings in the
-
-lowest revenue among the listed categories.
+**.Insight:** Clothing ($14,386K) and Accessories ($13,227K) are the primary revenue drivers. Furniture ($9,594K) brings in the lowest revenue among the listed categories.
 
 ## 4.Total Sales by Product Name (Horizontal Bar Chart)
 
 **.It shows:** Individual item performance.
 
 **.Insight:** The top three individual products are CLO-JAC ($6,051K), KIT-UTE ($5,999K), and CLO-PAN ($5,039K). Notice that
-
 two of these top items align with the dominant Clothing category.
 
 ## 5. Total Sales by Region (Donut Chart)
@@ -118,28 +115,24 @@ two of these top items align with the dominant Clothing category.
 **.It shows:** Market share split across geographic territories (Central, South, West, North, East).
 
 **.Insight:** Revenue distribution is almost perfectly balanced across all five regions, with each contributing roughly 20% 
-
 (varying minimally between 19.85% and 20.23%). No single region is dominating or failing.
 
 ## 6. Total Sales by Employee Name (Horizontal Bar Chart)
 **.It shows:** Individual sales team performance.
 
 **.Insight:** The top five reps (Khaled Hassan, Omar El-Sayed, Ahmed Ibrahim, Hassan El-Sayed, and John Smith) are 
-
 performing tightly at a high tier (around $2.8M each). There is a steep drop-off to the lower tier of reps like Mona Garcia ($1,535K) and Fatima Johnson ($1,507K).
 
 ## Overall Insight
 
 The business is highly profitable and stable due to a premium 35.2% profit margin and perfectly balanced regional 
-
 diversification. However, it relies heavily on a small customer base, a few key product categories, and a small group of top-
-
 performing sales reps to drive its $71M in revenue.
 
 ## Core Recommendation
 
 **.Launch Acquisition Campaigns:** Drive new customer growth to expand the compact 2,000-user base and leverage the high 
-$706 Average Order Value
+$706 Average Order Value.
 
 **.Optimize Holiday Inventory:** Scale up supply chains for CLO-JAC and high-demand clothing items ahead of the predictable Month 12 peak.
 
@@ -148,9 +141,7 @@ $706 Average Order Value
 
 ## Conclution
 The business boasts a highly efficient 35.2% profit margin and strong regional diversification. However, long-term growth is 
-
 limited by portfolio concentration and workforce gaps. By acquiring more customers, optimizing seasonal stock, and 
-
 standardizing employee training, the company can successfully scale revenue beyond $71M.
 
 
