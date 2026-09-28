@@ -32,6 +32,9 @@ customer behavior, product performance, and profitabilIty.
 •	Which employees generate the highest sales?
 •	Who are the highest-value customers?
 
+## Analytical Features
+
+
 ## TOOL USED
 •	Power BI Desktop.
 •	Power Query.
