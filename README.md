@@ -51,12 +51,12 @@ customer behavior, product performance, and profitabilIty.
 
 ## Below is an in-depth analysis of each visual component:
 ## .1.High-level Key Performance Indicators (KPIs):
-.Total Sales: $71M
-.Total Orders: $100K
-.Total Profit: $25M (yielding a healthy overall profit margin of ~35.2%)
-.Total Customers: 2K
-.Average Order Value (AOV): $706
-.Insight: The business generates high value per order ($706), indicating a customer base that makes large or premium purchases, rather than small, frequent, low-value transactions.
+**.Total Sales:** $71M
+**.Total Orders:** $100K
+**.Total Profit:** $25M (yielding a healthy overall profit margin of ~35.2%)
+**.Total Customers:** 2K
+**.Average Order Value (AOV):** $706
+**.Insight:** The business generates high value per order ($706), indicating a customer base that makes large or premium purchases, rather than small, frequent, low-value transactions.
 
 ## 2.Total Sales by Month (Line Chart)
 . It shows: Monthly sales performance over a 12-month period.
