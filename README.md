@@ -7,7 +7,7 @@ This project analyzes sales data to understand business performance,
 customer behavior, product performance, and profitabilIty.
 
 ## Business Requirements
-- Monitor overall sales performance by tracking total sales, orders, profit, customers, and average order value.
+- Monitor overall sales performance by tracking total sales, orders, profit, customers, and average order value.  
 - Analyze monthly sales trends to identify changes in sales performance over time.
 -Identify top-performing products based on their contribution to total sales.
 - Evaluate product-category performance by comparing sales across different categories.
@@ -50,12 +50,19 @@ customer behavior, product performance, and profitabilIty.
 .Workforce Performance Gap: Exposed a significant 46% sales drop-off between top and bottom-tier representatives.
 
 ## Below is an in-depth analysis of each visual component:
+
 ## .1.High-level Key Performance Indicators (KPIs):
+
 **.Total Sales:** $71M
+
 **.Total Orders:** $100K
+
 **.Total Profit:** $25M (yielding a healthy overall profit margin of ~35.2%)
+
 **.Total Customers:** 2K
+
 **.Average Order Value (AOV):** $706
+
 **.Insight:** The business generates high value per order ($706), indicating a customer base that makes large or premium purchases, rather than small, frequent, low-value transactions.
 
 ## 2.Total Sales by Month (Line Chart)
