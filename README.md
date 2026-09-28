@@ -8,7 +8,8 @@ customer behavior, product performance, and profitabilIty.
 
 ## Business Requirements
 - Monitor overall sales performance by tracking total sales, orders, profit, customers, and average order value.
-- Analyze monthly sales trends to identify changes in sales performance over time.
+- Analyze monthly sales trends to identify changes in sales perfo<img width="826" height="502" alt="project image" src="https://github.com/user-attachments/assets/17d03929-b59f-43a1-a00c-6ec7c2868698" />
+rmance over time.
 -Identify top-performing products based on their contribution to total sales.
 - Evaluate product-category performance by comparing sales across different categories.
 -  Analyze geographical sales performance to identify regions with the highest and lowest sales.
@@ -32,7 +33,15 @@ customer behavior, product performance, and profitabilIty.
 •	Which employees generate the highest sales?
 •	Who are the highest-value customers?
 
-## Analytical Features
+## Dashboard Preview
+
+<img width="826" height="502" alt="project image" src="https://github.com/user-attachments/assets/26523921-5473-49c1-b0e6-0147b1de2dde" />
+
+<img width="197" height="96" alt="total_sales by region" src="https://github.com/user-attachments/assets/20621569-c682-41c1-8486-1f05fc9e214c" />
+<img width="186" height="100" alt="total_sales by product_name" src="https://github.com/user-attachments/assets/6f21e3e2-ba86-4f75-b251-9fa5a5ca42e8" />
+<img width="356" height="135" alt="total_sales by month" src="https://github.com/user-attachments/assets/1b0e7386-16bc-4ebe-b86f-99608792fc59" />
+<img width="213" height="100" alt="total_sales by employee_name" src="https://github.com/user-attachments/assets/324ab6c2-3862-4921-b893-6b332cb5c982" />
+<img width="248" height="133" alt="total_sales by category" src="https://github.com/user-attachments/assets/1c613284-8f54-43f5-b3b0-9e8ae4f6b2e2" />
 
 
 ## TOOL USED
