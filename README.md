@@ -8,8 +8,7 @@ customer behavior, product performance, and profitabilIty.
 
 ## Business Requirements
 - Monitor overall sales performance by tracking total sales, orders, profit, customers, and average order value.
-- Analyze monthly sales trends to identify changes in sales perfo<img width="826" height="502" alt="project image" src="https://github.com/user-attachments/assets/17d03929-b59f-43a1-a00c-6ec7c2868698" />
-rmance over time.
+- Analyze monthly sales trends to identify changes in sales performance over time.
 -Identify top-performing products based on their contribution to total sales.
 - Evaluate product-category performance by comparing sales across different categories.
 -  Analyze geographical sales performance to identify regions with the highest and lowest sales.
